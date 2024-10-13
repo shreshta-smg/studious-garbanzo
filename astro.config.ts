@@ -10,6 +10,7 @@ import { SITE } from "./src/config";
 export default defineConfig({
   site: SITE.website,
   base: 'studious-garbanzo',
+  redirects: {'/': '/studious-garbanzo'},
   integrations: [
     tailwind({
       applyBaseStyles: false,
