@@ -1,9 +1,9 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
+  website: "https://shreshtasmg.in/", // replace this with your deployed domain
   author: "shreshtadev",
-  profile: "https://shreshtasmg.in/",
+  profile: "https://shreshtasmg.in/about",
   desc: "",
   title: "Shrehsta SMG",
   ogImage: "astropaper-og.jpg",
@@ -14,7 +14,7 @@ export const SITE: Site = {
   editPost: {
     url: "https://github.com/satnaing/astro-paper/edit/main/src/content/blog",
     text: "Suggest Changes",
-    appendFilePath: true,
+    appendFilePath: false,
   },
 };
 
@@ -33,7 +33,7 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/shreshtadev",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },
@@ -41,11 +41,11 @@ export const SOCIALS: SocialObjects = [
     name: "Facebook",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Facebook`,
-    active: true,
+    active: false,
   },
   {
     name: "Instagram",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://www.instagram.com/shreshtasmg",
     linkTitle: `${SITE.title} on Instagram`,
     active: true,
   },
@@ -53,11 +53,11 @@ export const SOCIALS: SocialObjects = [
     name: "LinkedIn",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on LinkedIn`,
-    active: true,
+    active: false,
   },
   {
     name: "Mail",
-    href: "mailto:yourmail@gmail.com",
+    href: "mailto:shreshtha.smg@gmail.com",
     linkTitle: `Send an email to ${SITE.title}`,
     active: false,
   },
