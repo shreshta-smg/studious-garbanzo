@@ -1,9 +1,9 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://shreshtasmg.in/", // replace this with your deployed domain
+  website: "https://shreshtadev.github.io.in/", // replace this with your deployed domain
   author: "shreshtadev",
-  profile: "https://shreshtasmg.in/about",
+  profile: "https://shreshtadev.github.io.in/about",
   desc: "",
   title: "Shrehsta SMG",
   ogImage: "astropaper-og.jpg",
@@ -12,7 +12,7 @@ export const SITE: Site = {
   postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   editPost: {
-    url: "https://github.com/satnaing/astro-paper/edit/main/src/content/blog",
+    url: "https://github.com/shreshta-smg/studious-garbanzo/edit/main/src/content/blog",
     text: "Suggest Changes",
     appendFilePath: false,
   },
@@ -39,7 +39,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Facebook",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/shreshta-smg/studious-garbanzo",
     linkTitle: `${SITE.title} on Facebook`,
     active: false,
   },
@@ -51,7 +51,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "LinkedIn",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/shreshta-smg/studious-garbanzo",
     linkTitle: `${SITE.title} on LinkedIn`,
     active: false,
   },
@@ -63,91 +63,91 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Twitter",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/shreshta-smg/studious-garbanzo",
     linkTitle: `${SITE.title} on Twitter`,
     active: false,
   },
   {
     name: "Twitch",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/shreshta-smg/studious-garbanzo",
     linkTitle: `${SITE.title} on Twitch`,
     active: false,
   },
   {
     name: "YouTube",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/shreshta-smg/studious-garbanzo",
     linkTitle: `${SITE.title} on YouTube`,
     active: false,
   },
   {
     name: "WhatsApp",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/shreshta-smg/studious-garbanzo",
     linkTitle: `${SITE.title} on WhatsApp`,
     active: false,
   },
   {
     name: "Snapchat",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/shreshta-smg/studious-garbanzo",
     linkTitle: `${SITE.title} on Snapchat`,
     active: false,
   },
   {
     name: "Pinterest",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/shreshta-smg/studious-garbanzo",
     linkTitle: `${SITE.title} on Pinterest`,
     active: false,
   },
   {
     name: "TikTok",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/shreshta-smg/studious-garbanzo",
     linkTitle: `${SITE.title} on TikTok`,
     active: false,
   },
   {
     name: "CodePen",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/shreshta-smg/studious-garbanzo",
     linkTitle: `${SITE.title} on CodePen`,
     active: false,
   },
   {
     name: "Discord",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/shreshta-smg/studious-garbanzo",
     linkTitle: `${SITE.title} on Discord`,
     active: false,
   },
   {
     name: "GitLab",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/shreshta-smg/studious-garbanzo",
     linkTitle: `${SITE.title} on GitLab`,
     active: false,
   },
   {
     name: "Reddit",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/shreshta-smg/studious-garbanzo",
     linkTitle: `${SITE.title} on Reddit`,
     active: false,
   },
   {
     name: "Skype",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/shreshta-smg/studious-garbanzo",
     linkTitle: `${SITE.title} on Skype`,
     active: false,
   },
   {
     name: "Steam",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/shreshta-smg/studious-garbanzo",
     linkTitle: `${SITE.title} on Steam`,
     active: false,
   },
   {
     name: "Telegram",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/shreshta-smg/studious-garbanzo",
     linkTitle: `${SITE.title} on Telegram`,
     active: false,
   },
   {
     name: "Mastodon",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/shreshta-smg/studious-garbanzo",
     linkTitle: `${SITE.title} on Mastodon`,
     active: false,
   },
