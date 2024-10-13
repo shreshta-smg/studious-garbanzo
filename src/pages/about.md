@@ -11,21 +11,19 @@ We are a young and experienced group of people in the development field with 1 y
 
 ## Tech Stack
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+We are basically a polyglot shop.
+
+1) Astro
+2) postgresql/mysql/mongodb
+3) ASPNET MVC/Blazor
+4) Laravel
+5) Vendure ECommerce
+5) C#/F#
+6) Typescript
 
 ## Features
 
-Here are certain features of this site.
+We do excersize Domain Driven Application Development utilizing the cutting edge established technologies to suffice your business needs. We provide software consulting and application design services.
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+If you like this theme, you can star/contribute to the [repo](https://github.com/shreshta-smg/studious-garbanzo).
+Or you can even give any feedback via my [email](mailto:shreshtha.smg@gmail.com).
